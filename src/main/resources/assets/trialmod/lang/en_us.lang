@@ -1,0 +1,7 @@
+#English US Language file for the Trail mod
+
+#Creative Tabs
+itemGroup.tab_trial=Trialmod
+
+#Items
+item.trial_item.name=Some Item

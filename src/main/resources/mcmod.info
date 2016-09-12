@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mesly.trailmod",
+  "name": "Trail Mod",
+  "description": "Trail mod made by Mesly himself (sortof).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Only Mesly, I made this myself"],
+  "credits": "The Forge and FML guys, for making this example. NO I MADE THIS",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
